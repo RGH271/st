@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "FiraCodeNerdFont-Regular.ttf: FiraCode Nerd Font:style=Regular:pixelsize=14:antialias=true:autohint=true";
+static char *font = "JetBrainsMonoNerdFont-Regular.ttf: JetBrainsMono Nerd Font,JetBrainsMono NF:style=Regular:pixelsize=14:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
